@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Satan
+tagline: Love Us
 url: https://iamthenewking.github.io
 paginate: 6
 baseurl: "/"
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: lucider
+  url: https://twitter.com/satan
+  email: satanus@gmail.com
 
 # Custom vars
 version: 3.0.0
