@@ -2,7 +2,7 @@
 title: Poole
 tagline: The Jekyll Butler
 url: https://iamthenewking.github.io
-paginate: 2
+paginate: 6
 baseurl: "/"
 permalink: pretty
 
